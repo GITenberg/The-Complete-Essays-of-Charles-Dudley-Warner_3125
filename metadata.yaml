@@ -1,0 +1,32 @@
+_repo: The-Complete-Essays-of-Charles-Dudley-Warner_3125
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: As we were saying -- As we go -- Nine short essays -- Fashions in
+  literature -- The American newspaper -- Certain diversities of American life --
+  The pilgrim, and the American of today [1892] -- Some causes of the prevailing disconcent
+  -- The education of the negro -- The indeterminate sentence -- Literary copyright
+  -- The relation of literature to life -- "Equality" -- What is your culture to me?
+  -- Modern fiction -- Thoughts suggested by Mr. Froude's "Progress" -- England --
+  The novel and the common school -- The people for whom Shakespeare wrote.
+title: The Complete Essays of Charles Dudley Warner
+url: http://www.gutenberg.org/ebooks/3125
